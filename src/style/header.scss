@@ -1,0 +1,24 @@
+.header{
+    padding-top: 15px;
+    width: 90%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+img{
+    height: 60px;
+}
+
+.headmen{
+    list-style: none;
+    display: flex;
+    li{
+        padding: 8px;
+        &:hover{
+            color: rgb(73, 73, 255);
+        }
+    }
+}
+

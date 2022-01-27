@@ -1,0 +1,23 @@
+.blu{
+    background-color: rgb(37, 61, 240);
+    height: 130px;
+    display: flex;
+    align-items: center;
+    .blu-box{
+        width: 90%;
+        margin: auto;
+        display: flex;
+        h5{
+            color: white;
+            margin-left: 10px;
+        }div{
+            display: flex;
+            align-items: center;
+            margin: 30px;
+            img{
+                height: 40px;
+            }
+        }
+
+    }
+}

@@ -1,0 +1,32 @@
+.footer{
+    background-color: rgb(58, 58, 58);
+    .footerm{
+        width: 80%;
+        height: 100px;
+        margin: auto;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        .footer-sx{
+            color: white;
+            border: solid 2px rgb(73, 73, 255);;
+            width: 120px;
+            height: 30px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .footer-dx{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            h3{
+                color: rgb(73, 73, 255);;
+            }
+            img{
+                height: 50px;
+                margin-left: 15px;
+            }
+        }
+    }
+}
