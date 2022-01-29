@@ -1,6 +1,7 @@
 <template>
     <div class="jumbo">
         <img src="../assets/jumbotron.jpg" alt="">
+        <div class="current">CURRENT SERIES</div>
     </div>
 </template>
 
